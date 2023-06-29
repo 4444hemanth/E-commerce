@@ -722,6 +722,11 @@ footer .copyright {
     width: 70px;
     padding: 10px 5px 10px 15px;
 }
+#cart table td:nth-child(6) input
+{
+    width: 70px;
+    padding: 10px 5px 10px 15px;
+}
 #cart table thead{
     border: 1px solid #e2e9e1;
     border-left: none;
@@ -761,6 +766,11 @@ footer .copyright {
 }
 #coupon button,
 #subtotal button{
+    background-color: #088178;
+    color: white;
+    padding: 12px 20px;
+}
+#cart button{
     background-color: #088178;
     color: white;
     padding: 12px 20px;
