@@ -25,3 +25,14 @@ function computecost()
     document.getElementById("2cost").value=one*799 + two*849 + three*799;
 }
 
+function subtotalcost()
+{
+    var on=document.getElementById("one").value;
+    var tw=document.getElementById("two").value;
+    var thre=document.getElementById("three").value;
+    
+    document.getElementById("cost1").value=on*799;
+    document.getElementById("cost2").value=tw*849;
+    document.getElementById("cost3").value=thre*799;
+}
+
