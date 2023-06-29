@@ -96,7 +96,7 @@ function subtotalcost()
     document.getElementById("cost2").value=tw*849;
     document.getElementById("cost3").value=thre*799;
 }
-function costcouponornot()
+function cost_coupon_ornot()
 {
     var a;
     if(document.getElementById("couponno").value=="SHOP$4430")
