@@ -896,6 +896,7 @@ footer .copyright {
         padding-left: 20px;
     }
     #close{
+        display:initial
         position: absolute;
         top: 30px;
         left: 30px;
