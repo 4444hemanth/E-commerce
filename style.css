@@ -862,7 +862,7 @@ footer .copyright {
         width: 70%;
     }
 }
-@media(max-width:477px){
+@media(max-width:600px){
     /*home page*/
     #navbar{
         display: flex;
